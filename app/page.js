@@ -12,7 +12,7 @@ export default function GameFyWebsite() {
               <circle cx="14.5" cy="13.5" r="1.5"/>
               <circle cx="18.5" cy="10.5" r="1.5"/>
             </svg>
-            <span className="font-bold text-lg">GAMER'S DEN</span>
+            <span className="font-bold text-lg">GAMER&apos;S DEN</span>
           </div>
         </div>
         <nav className="hidden md:flex space-x-8">
@@ -139,7 +139,7 @@ export default function GameFyWebsite() {
                 <circle cx="14.5" cy="13.5" r="1.5"/>
                 <circle cx="18.5" cy="10.5" r="1.5"/>
               </svg>
-              <span className="font-bold text-lg">GAMER'S DEN</span>
+              <span className="font-bold text-lg">GAMER&apos;S DEN</span>
             </div>
             <p className="text-xs text-gray-400 max-w-xs">
               Sit amet, consectetur adipiscing elit. Nullam dictum aliquam porta tellus rhoncus, in mattis. Nulla aliquet id vulputet.
